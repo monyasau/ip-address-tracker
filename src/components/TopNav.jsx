@@ -19,10 +19,10 @@ export default function TopNav() {
             Home
           </a>
           <a href="#" className="text-dark-gray hover:underline">
-            Designs
+            More apps
           </a>
           <a href="#" className="text-dark-gray hover:underline">
-            Music
+            About
           </a>
           <a href="#" className="text-dark-gray hover:underline">
             Contact
@@ -89,13 +89,13 @@ export default function TopNav() {
 
               <li>
                 <a href="/designs" className="hover:text-sky-500">
-                  Designs
+                  More apps
                 </a>
               </li>
 
               <li>
                 <a className="hover:text-sky-500" href="/music">
-                  Music
+                  About
                 </a>
               </li>
 
